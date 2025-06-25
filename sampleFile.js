@@ -1,1 +1,2 @@
-Cosole.log("hello");
+Console.log("hello");
+Console.log("bye");
